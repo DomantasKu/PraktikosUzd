@@ -1,0 +1,9 @@
+file:///home/mano_projektas/mano_projektas/routes/api.php {"mtime":1718830552068,"ctime":1718830550708,"size":186,"etag":"3ciinkppo60","orphaned":false,"typeId":""}
+<?php
+
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Route;
+
+Route::get('/user', function (Request $request) {
+    return $request->user();
+})->middleware('auth:sanctum');

@@ -1,0 +1,23 @@
+2024-06-20 01:18:36.786 [info] Extension host with pid 114653 started
+2024-06-20 01:18:36.899 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-06-20 01:18:36.937 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-06-20 01:18:36.996 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-06-20 01:18:37.083 [info] Eager extensions activated
+2024-06-20 01:18:37.093 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-06-20 01:18:37.095 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-06-20 01:18:47.120 [info] Extension host terminating: renderer closed the MessagePort
+2024-06-20 01:18:47.131 [info] Extension host with pid 114653 exiting with code 0
+2024-06-20 01:18:47.796 [info] Extension host with pid 114804 started
+2024-06-20 01:18:47.796 [info] Skipping acquiring lock for /home/mano_projektas/mano_projektas/~/vscode-root/User/workspaceStorage/61e847d4824ecfaf524b00e2bb5fd3a5.
+2024-06-20 01:18:47.837 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-06-20 01:18:47.840 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2024-06-20 01:18:47.928 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-06-20 01:18:47.973 [info] Eager extensions activated
+2024-06-20 01:18:47.975 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-06-20 01:18:47.977 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-06-20 01:18:50.306 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-06-20 01:19:02.864 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2024-06-20 01:19:02.892 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-06-20 01:27:37.393 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2024-06-20 01:42:19.834 [info] Extension host terminating: renderer closed the MessagePort
+2024-06-20 01:42:19.848 [info] Extension host with pid 114804 exiting with code 0

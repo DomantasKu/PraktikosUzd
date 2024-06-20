@@ -1,0 +1,9 @@
+file:///home/mano_projektas/mano_projektas/routes/console.php {"mtime":1717471712000,"ctime":1718829409458,"size":220,"etag":"3cgagehim73","orphaned":false,"typeId":""}
+<?php
+
+use Illuminate\Foundation\Inspiring;
+use Illuminate\Support\Facades\Artisan;
+
+Artisan::command('inspire', function () {
+    $this->comment(Inspiring::quote());
+})->purpose('Display an inspiring quote')->hourly();
